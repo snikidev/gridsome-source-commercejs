@@ -1,0 +1,22 @@
+{
+  "name": "gridsome-source-commercejs",
+  "version": "1.0.0",
+  "description": "Commerce.js source plugin for Gridsome",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snikidev/gridsome-source-commercejs"
+  },
+  "author": "snikidev <n.kakuev@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source-plugin",
+    "vuejs",
+    "commercejs"
+  ],
+  "dependencies": {
+    "@chec/commerce.js": "^2.2.0"
+  }
+}

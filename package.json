@@ -1,6 +1,6 @@
 {
   "name": "gridsome-source-commercejs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Commerce.js source plugin for Gridsome",
   "main": "index.js",
   "repository": {

@@ -1,4 +1,6 @@
-# WIP: gridsome-source-commercejs
+# gridsome-source-commercejs
+
+![npm](https://img.shields.io/npm/v/gridsome-source-commercejs)
 
 Commerce.js source plugin for Gridsome
 

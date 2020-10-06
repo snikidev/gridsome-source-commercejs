@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/gridsome-source-commercejs)
 
-Commerce.js source plugin for Gridsome
+[Commerce.js](http://commercejs.com/) source plugin for [Gridsome](https://gridsome.org/).
 
 ## Install
 
